@@ -1,6 +1,6 @@
-👋 Hi, I’m Ramla Hussain
-👀 I’m interested in software development, UI/UX design, and innovative tech solutions.
-🌱 I’m currently learning JavaScript frameworks like React and improving my back-end skills with Node.js.
-💞️ I’m looking to collaborate on open-source projects, web development, and app design.
-📫 How to reach me hussainramla1@gmail.com
-😄 Pronouns:She/Her
+-👋 Hi, I’m Ramla Hussain
+-👀 I’m interested in software development, UI/UX design, and innovative tech solutions.
+-🌱 I’m currently learning JavaScript frameworks like React and improving my back-end skills with Node.js.
+-💞️ I’m looking to collaborate on open-source projects, web development, and app design.
+-📫 How to reach me hussainramla1@gmail.com
+-😄 Pronouns:She/Her
